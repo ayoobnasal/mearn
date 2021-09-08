@@ -1,0 +1,28 @@
+.parent{
+    width: 550px;
+    height: 300px;
+    background-color: white;
+    display: flex;
+} 
+.col{
+    width: 100px;
+    height:250px;
+    padding: 70px;
+}
+.col1{
+    background-color: white;
+    flex: 2;
+
+}
+.col2{
+    background-color:white;
+    flex: 1;
+}
+.col3{
+    background-color: white;
+    flex: 1;
+}
+.col4{
+    background-color:white;
+    flex: 1;
+}

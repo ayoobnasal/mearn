@@ -1,0 +1,55 @@
+.parent{
+    width: 550px;
+    height: 300px;
+    background-color: white;
+    display: flex;
+    margin-top: 30px;
+    
+} 
+.col{
+    width: 550px;
+    height:300px;
+    padding: 10px;
+    border: black solid 1px;
+
+}
+.col1{
+    background-color: white;
+    flex: 2;
+
+}
+.col2{
+    background-color:white;
+    flex: 1;
+    
+}
+.col3{
+    background-color: white;
+    flex: 1;
+}
+.col4{
+    background-color:white;
+    flex: 1;
+}
+button{
+    color:black;
+    background-color: red;
+}
+.img{
+    width: 207px;
+    height: 200pt;
+
+}
+header{
+    display: flex;
+    width: 100%;
+    background-color:darkgreen;
+    justify-content: space-evenly;
+    height: 50px;
+    align-items: center;
+}
+header a{
+    color: white;
+    text-decoration: none;
+    padding: 100px;
+}
